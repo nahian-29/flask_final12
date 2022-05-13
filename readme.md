@@ -1,10 +1,10 @@
 # Project Setup
 
-[![Production Workflow 1](https://github.com/nahian-29/flask_final1/actions/workflows/prod.yml/badge.svg)](https://github.com/nahian-29/flask_final1/actions/workflows/prod.yml)
+[![Production Workflow 1](https://github.com/nahian-29/flask_final12/actions/workflows/prod.yml/badge.svg)](https://github.com/nahian-29/flask_final12/actions/workflows/prod.yml)
 
 * [Production Deployment](https://dockerlive.herokuapp.com/)
 
-* [![Development Workflow 3.8](https://github.com/nahian-29/flask_final1/actions/workflows/dev.yml/badge.svg)](https://github.com/nahian-29/flask_final1/actions/workflows/dev.yml)
+* [![Development Workflow 3.8](https://github.com/nahian-29/flask_final12/actions/workflows/dev.yml/badge.svg)](https://github.com/nahian-29/flask_final12/actions/workflows/dev.yml)
 
 * [Developmental Deployment](https://dockerflask-dev.herokuapp.com/)
 
